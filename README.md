@@ -1,7 +1,8 @@
 Hey, I am Jones. I build lots of random apps, programs and demos on this account to practice my coding.
 
 ### Currently working on:
-- Learning Flutter.
+- Learning Flutter for MVPs.
+- General Machine learning and computer vision. 
 - Making a portfolio site.
 - Launching a Start up - learning to pitch and rasie capital.
 
