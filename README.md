@@ -5,4 +5,4 @@ Hey, I am Jones. I build lots of random apps, programs and demos on this account
 - Making a portfolio site.
 - Launching a Start up - learning to pitch and rasie capital.
 
-For more information about me (and my projects), check out {SITE NOT UP YET}
+For more information about me (and my projects), check out {SITE NOT UP YET} :+1:
