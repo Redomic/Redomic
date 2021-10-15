@@ -1,4 +1,4 @@
-Hey, I am Jones. I build lots of random apps, programs, and demos on this account to practice my coding.
+Hey, I am Jones. I build lots of random apps, programs, and demos on this account.
 
 ### Currently working on:
 - ~~Learning Flutter for MVPs~~.
