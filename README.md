@@ -1,6 +1,6 @@
 Hey, I am Jones. I like to work on projects and businesses that bring an impact at a large-scale. (Also to mess around :P)
 
-### Notable projects (Currently working on):
+### Projects / Currently working on:
 - Startup -  [Locaro](https://www.locaro.in/#/) in early stages.
 - NFT Project - [Literally Just a Pixel](https://www.literallyjustapixel.com)
 
