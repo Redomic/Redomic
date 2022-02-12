@@ -2,7 +2,7 @@ Hey, I am Jones. I like to work on projects and businesses that bring an impact 
 
 ### Notable projects (Currently working on):
 - Startup -  [Locaro](https://www.locaro.in/#/) in early stages.
-- NFT Project - [LiterallyJustaPixel](https://www.literallyjustapixel.com)
+- NFT Project - [Literally Just a Pixel](https://www.literallyjustapixel.com)
 
 For more information about me, check out [Redomic!](https://www.redomic.in) :+1:
 
