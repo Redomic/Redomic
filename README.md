@@ -6,4 +6,4 @@ Hey, I am Jones. I like to work on scalable things. (Also to mess around :P)
 
 For more information about me, check out [Redomic!](https://www.redomic.in) :+1:
 
-[![Redomic](https://i.imgur.com/21Rm9K0.png)](https://www.redomic.in)
+[![Redomic](https://i.imgur.com/oz1xZLN.png)](https://www.redomic.in)
