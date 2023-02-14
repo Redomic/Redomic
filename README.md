@@ -8,4 +8,4 @@ For more information about me, check out [Redomic!](https://www.redomic.in) :+1:
 
 <!-- [![Redomic](https://i.imgur.com/oz1xZLN.png)](https://www.redomic.in) -->
 
-<img src="https://i.imgur.com/oz1xZLN.png"  width="10%" height="10%">
+[<img src="https://i.imgur.com/oz1xZLN.png"  width="10%" height="10%">](https://www.redomic.in)
