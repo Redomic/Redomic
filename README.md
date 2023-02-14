@@ -3,6 +3,7 @@ Hey, I am Jones. I like to work on scalable things. (Also to mess around :P)
 ### Projects / Currently working on:
 - Startup -  [Locaro](https://www.locaro.in/#/) in early stages.
 - NFT Project - [Literally Just a Pixel](https://www.literallyjustapixel.com)
+- UniConnect+ - Soon to be released
 
 For more information about me, check out [Redomic!](https://www.redomic.in) :+1:
 
